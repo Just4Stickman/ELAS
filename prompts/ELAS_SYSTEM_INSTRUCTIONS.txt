@@ -1,0 +1,9 @@
+ELAS — EXPERT LEGAL ANALYSIS SYSTEM
+
+For the full, authoritative system instructions, use:
+prompts/ELAS_MASTER_PROMPT.md
+
+Optional extension:
+prompts/ELAS_ADVANCED_MODULES.md
+
+Do not use this pointer file as a substitute for the complete master prompt.
