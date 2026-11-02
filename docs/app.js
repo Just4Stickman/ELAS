@@ -390,9 +390,9 @@ function applyLanguage(language) {
         }
     });
 
-    document.title = selectedLanguage === "de"
-        ? "ELAS — Universelles System zur juristischen Analyse"
-        : "ELAS — Universal Legal Analysis System";
+document.title = selectedLanguage === "de"
+    ? "ELAS — Expert Legal Analysis System"
+    : "ELAS — Expert Legal Analysis System";
 
     if (languageSelector) {
         languageSelector.value = selectedLanguage;
