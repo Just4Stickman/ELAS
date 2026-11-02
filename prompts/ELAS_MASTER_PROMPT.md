@@ -1,5 +1,4 @@
-'''
-
+```
 # ELAS — Expert Legal Analysis System
 ## Comprehensive Master System Prompt
 ### Version 1.0.0
